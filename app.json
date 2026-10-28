@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Folio",
+    "slug": "folio",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "folio",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#ffffff" },
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.folio.app" },
+    "plugins": ["expo-router", "expo-sqlite"],
+    "experiments": { "typedRoutes": true }
+  }
+}
